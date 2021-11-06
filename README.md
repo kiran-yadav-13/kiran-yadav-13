@@ -12,7 +12,7 @@
 
 - 👩🏻‍💻 Education: **Currently a 2nd Year Undergraduate Student**
 
-- 🌱 I’m currently learning **Web Development, DSA and Open-Source Contribution**
+- 🌱 I’m currently learning **Web Development and DSA**
 
 - 🤝 Looking to collaborate **on Open-Source Contribution**
 
