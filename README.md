@@ -3,10 +3,10 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Kiran Yadav </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-yadav-13&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-yadav-13"  />  </p>
-<img align="right" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="55%" height="70%" style="margin:0 50px;"> 
+
 
 <h3 align="center">A tech enthusiastic who love to explore about new inventions and new technologies.</h3>
-
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <h3 align="left">About Me: </h3>
 
 - 😄 Pronouns: **She/Her**
