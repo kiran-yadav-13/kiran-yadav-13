@@ -11,7 +11,8 @@
 <!-- https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/fullscreen
  -->
 - 😄 Pronouns: **She/Her**
-- Portfolio :"https://kiran-yadav-13.github.io/first-portfolio/"
+
+- Portfolio : **"https://kiran-yadav-13.github.io/first-portfolio/"**
 
 - 👩🏻‍💻 Education: **Currently a 2nd Year Undergraduate Student**
 
