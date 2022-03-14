@@ -34,6 +34,7 @@
 <a> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a>
+ <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 
 
 <h3 align="left">Operating System: </h3>
