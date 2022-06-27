@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey👋! I'm Kiran Yadav </h1>
-<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="40%" height="70%" style="margin:0 60px; ">
+<img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="40%" height="70%" style="margin:20px 50px; 0 10px">
 
 <h3 align="center">A tech enthusiastic who love to explore about new inventions and new technologies.</h3>
 <!-- <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p> -->
