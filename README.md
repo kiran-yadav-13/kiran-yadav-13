@@ -18,9 +18,6 @@
 
 - Portfolio : "https://kiran-yadav-13.github.io/first-portfolio/"
 
-- ⚡ Fun fact: I love teaching. 
-
-
 
 
 <h3 align="left">Skills: </h3>
