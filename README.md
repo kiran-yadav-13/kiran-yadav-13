@@ -18,7 +18,7 @@
 
 - Portfolio : "https://kiran-yadav-13.github.io/first-portfolio/"
 
-- ⚡ Fun fact I love to help people in understanding concepts.
+- ⚡ Fun fact: I love teaching. 
 
 
 
