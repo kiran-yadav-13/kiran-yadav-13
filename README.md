@@ -10,13 +10,13 @@
 
 - 😄 Pronouns: She/Her
 
-- 👩🏻‍💻 Education: 2nd Year CS Undergraduate Student
+- 👩🏻‍💻 Education: 1st Year MCA Student
 
 - 🌱 I’m currently learning Web Development and DSA
 
 - 🤝 Looking to collaborate on Open-Source Contribution
 
-- Portfolio : "https://kiran-yadav-13.github.io/first-portfolio/"
+
 
 
 
